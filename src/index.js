@@ -18,3 +18,4 @@ export default function (feathersClient, globalOptions = {}) {
     auth: setupAuthModule(feathersClient, globalOptions)
   }
 }
+// test
